@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  account_id: 1
+  tour_id: 1
+  title: MyText
+  content: MyText
+  status: MyString
+
+two:
+  account_id: 1
+  tour_id: 1
+  title: MyText
+  content: MyText
+  status: MyString

@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  category_id: 1
+  account_id: 1
+  title: MyText
+  content: MyText
+  image: MyString
+  avg_rate: 1.5
+  rate_amount: 1
+  price: MyString
+  integer: MyString
+
+two:
+  category_id: 1
+  account_id: 1
+  title: MyText
+  content: MyText
+  image: MyString
+  avg_rate: 1.5
+  rate_amount: 1
+  price: MyString
+  integer: MyString
