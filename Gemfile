@@ -12,7 +12,7 @@ gem 'bootstrap-sass'
 gem "coffee-rails", "~> 4.2"
 gem "config"
 gem "jbuilder", "~> 2.5"
-gem "puma", "~> 3.11"
+gem "puma", "~> 4.3"
 gem "rails", "~> 5.2.3"
 gem "rails-controller-testing"
 gem "rails-i18n"
